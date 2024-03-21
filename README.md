@@ -9,7 +9,10 @@ https://github.com/PNOptimizer/NewHDesign/assets/125330242/0caf9a65-1bb3-4157-9a
 本程序平台采用C#实现我们所提出的基于Petri网的类A*搜索算法，详细算法描述请参见我们的英文专著及相应论文。
 
 Bo Huang, MengChu Zhou. Supervisory Control and Scheduling of Resource Allocation Systems. Hoboken, NJ, USA: John Wiley & Sons (IEEE-Wiley), July 2020.
+
 Bo Huang, MengChu Zhou, XiaoYu Sean Lu, and Abdullah Abusorrah. Scheduling of Resource Allocation Systems with Timed Petri Nets: A Survey. ACM Computing Surveys, Feb. 2023, 55(11): 1-27. 
+
+YuanZheng Xiao, HaoRan Wu, YangQing Gao, Bo Huang, and JianYong Lv. A Fast Heuristic Scheduling Search for Robotic Cellular Manufacturing Systems with Generalized and Timed Petri Nets. IROS 2024, submitted.
 
 
 本平台基于Visual Studio 2008开发，安装VS2008后直接双击后缀名为.sln或.csproj文件即可打开运行。如果采用的不同版本的VS则可能无法直接打开，此时需要新建空白C# Console工程，将Main.cs, AStar.cs和Heap.cs三个文件，以及bin文件夹和帮助文档拷贝至新建工程的所在目录，然后在工程中Project->add existing item将三个cs文件加入即可。（将老的程序备份，并创建新的程序也是此流程）
