@@ -1,0 +1,41 @@
+=======================Start of a run==========================
+Petri net=Xiong98extended_1111; h=9; Open size=0; h2=2;
+ep(for A^*_ep)=-1; ep2(for h dynamic weighting)=0
+The number of expanded markings:4241
+Search time：hours=0, minutes=0, seconds=16, milliseconds=84
+(Search time=16 seconds : 84 milliseconds)
+===============================================================
+************* The obtained schedule： ***********
+
+Node list:
+1)	f:0 g:0 h:0 tFireFrom:1 Depth:0 tEnabled:1 7 13 19  M:1 8 15 22 29 30 31(2)  R:
+2)	f:9.5 g:0 h:9.5 tFireFrom:19 Depth:1 tEnabled:1 7 13 20  M:1 8 15 23 29 31(2)  R:[23，1]:3  
+3)	f:9.5 g:0 h:9.5 tFireFrom:13 Depth:2 tEnabled:7 14 20  M:1 8 16 23 31(2)  R:[16，1]:3  [23，1]:3  
+4)	f:9.5 g:0 h:9.5 tFireFrom:7 Depth:3 tEnabled:8 14 20  M:1 9 16 23 31  R:[9，1]:4  [16，1]:3  [23，1]:3  
+5)	f:10.25 g:3 h:7.25 tFireFrom:20 Depth:4 tEnabled:8 14 21  M:1 9 16 24 30 31  R:[9，1]:1  
+6)	f:10.25 g:3 h:7.25 tFireFrom:14 Depth:5 tEnabled:1 8 15 21  M:1 9 17 24 29 30 31  R:[9，1]:1  
+7)	f:10.25 g:3 h:7.25 tFireFrom:15 Depth:6 tEnabled:1 8 16  M:1 9 18 24 29 30  R:[9，1]:1  [18，1]:5  
+8)	f:10.25 g:3 h:7.25 tFireFrom:1 Depth:7 tEnabled:2 8 16  M:2 9 18 24 30  R:[2，1]:2  [9，1]:1  [18，1]:5  
+9)	f:10.5 g:4 h:6.5 tFireFrom:8 Depth:8 tEnabled:2 16 21  M:2 10 18 24 30 31  R:[2，1]:1  [18，1]:4  
+10)	f:10.5 g:4 h:6.5 tFireFrom:21 Depth:9 tEnabled:2 16 22  M:2 10 18 25 30  R:[2，1]:1  [18，1]:4  [25，1]:4  
+11)	f:10.75 g:5 h:5.75 tFireFrom:2 Depth:10 tEnabled:3 9 16 22  M:3 10 18 25 29 30  R:[18，1]:3  [25，1]:3  
+12)	f:10.75 g:5 h:5.75 tFireFrom:9 Depth:11 tEnabled:3 10 16 22  M:3 11 18 25 30  R:[11，1]:2  [18，1]:3  [25，1]:3  
+13)	f:10.75 g:5 h:5.75 tFireFrom:3 Depth:12 tEnabled:4 10 16 22  M:4 11 18 25  R:[4，1]:3  [11，1]:2  [18，1]:3  [25，1]:3  
+14)	f:10.75 g:7 h:3.75 tFireFrom:10 Depth:13 tEnabled:4 16 22  M:4 12 18 25 29  R:[4，1]:1  [18，1]:1  [25，1]:1  
+15)	f:11 g:8 h:3 tFireFrom:22 Depth:14 tEnabled:4 16 23  M:4 12 18 26 29 31  R:
+16)	f:11 g:8 h:3 tFireFrom:23 Depth:15 tEnabled:4 16 24  M:4 12 18 27 31  R:[27，1]:3  
+17)	f:11 g:8 h:3 tFireFrom:16 Depth:16 tEnabled:4 24  M:4 12 19 27 31(2)  R:[27，1]:3  
+18)	f:11 g:8 h:3 tFireFrom:4 Depth:17 tEnabled:5 11 17 24  M:5 12 19 27 30 31(2)  R:[27，1]:3  
+19)	f:11 g:8 h:3 tFireFrom:17 Depth:18 tEnabled:5 18 24  M:5 12 20 27 31(2)  R:[20，1]:3  [27，1]:3  
+20)	f:11 g:8 h:3 tFireFrom:5 Depth:19 tEnabled:6 18 24  M:6 12 20 27  R:[6，1]:4  [20，1]:3  [27，1]:3  
+21)	f:11.75 g:11 h:0.75 tFireFrom:24 Depth:20 tEnabled:6 18  M:6 12 20 28 29  R:[6，1]:1  
+22)	f:11.75 g:11 h:0.75 tFireFrom:18 Depth:21 tEnabled:6 11  M:6 12 21 28 29 30  R:[6，1]:1  
+23)	f:11.75 g:11 h:0.75 tFireFrom:11 Depth:22 tEnabled:6 12  M:6 13 21 28 29  R:[6，1]:1  [13，1]:2  
+24)	f:12.25 g:12 h:0.25 tFireFrom:6 Depth:23 tEnabled:12  M:7 13 21 28 29 31(2)  R:[13，1]:1  
+25)	f:13 g:13 h:0 tFireFrom:12 Depth:24 tEnabled: M:7 14 21 28 29 30 31(2)  R:
+=============================================================
+=======================End of a run==========================
+
+
+
+
