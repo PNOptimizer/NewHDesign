@@ -1,0 +1,34 @@
+E:\我的坚果云\程序备份\My Project程序\NewH202104\NewH202104\obj\Debug\ResolveAssemblyReference.cache
+E:\我的坚果云\程序备份\My Project程序\NewH202104\NewH202104\bin\Debug\NewH202104.exe
+E:\我的坚果云\程序备份\My Project程序\NewH202104\NewH202104\bin\Debug\NewH202104.pdb
+E:\我的坚果云\程序备份\My Project程序\NewH202104\NewH202104\obj\Debug\NewH202104.exe
+E:\我的坚果云\程序备份\My Project程序\NewH202104\NewH202104\obj\Debug\NewH202104.pdb
+E:\我的坚果云\程序备份\My Project程序\NewH202104-20230301修正了h1的WRT\NewH202104\obj\Debug\NewH202104.exe
+E:\我的坚果云\程序备份\My Project程序\NewH202104-20230301修正了h1的WRT\NewH202104\obj\Debug\NewH202104.pdb
+E:\我的坚果云\程序备份\My Project程序\NewH202104-20230301修正了h1的WRT\NewH202104\bin\Debug\NewH202104.exe
+E:\我的坚果云\程序备份\My Project程序\NewH202104-20230301修正了h1的WRT\NewH202104\bin\Debug\NewH202104.pdb
+E:\我的坚果云\程序备份\My Project程序\NewH202104-20230301修正了h1的WRT\NewH202104\obj\Debug\ResolveAssemblyReference.cache
+E:\我的坚果云\程序备份\My Project程序\NewH202104-20230301修正了h7的WRT\NewH202104\obj\Debug\NewH202104.exe
+E:\我的坚果云\程序备份\My Project程序\NewH202104-20230301修正了h7的WRT\NewH202104\obj\Debug\NewH202104.pdb
+E:\我的坚果云\程序备份\My Project程序\NewH20230329大更新\NewH202104\obj\Debug\NewH202104.exe
+E:\我的坚果云\程序备份\My Project程序\NewH20230329大更新\NewH202104\obj\Debug\NewH202104.pdb
+E:\我的坚果云\程序备份\My Project程序\NewH20230329大更新\NewH202104\obj\Debug\ResolveAssemblyReference.cache
+E:\我的坚果云\程序备份\My Project程序\NewH20230329大更新\NewH202104\bin\Debug\NewH202104.exe
+E:\我的坚果云\程序备份\My Project程序\NewH20230329大更新\NewH202104\bin\Debug\NewH202104.pdb
+E:\我的坚果云\程序备份\My Project程序\NewH20230406\NewH202104\obj\Debug\NewH202104.exe
+E:\我的坚果云\程序备份\My Project程序\NewH20230406\NewH202104\obj\Debug\NewH202104.pdb
+E:\我的坚果云\程序备份\My Project程序\NewH20230406\NewH202104\bin\Debug\NewH202104.exe
+E:\我的坚果云\程序备份\My Project程序\NewH20230406\NewH202104\bin\Debug\NewH202104.pdb
+E:\我的坚果云\程序备份\My Project程序\NewH20230406\NewH202104\obj\Debug\ResolveAssemblyReference.cache
+D:\学\科研训练\NewH20230406\NewH20230406\NewH202104\bin\Debug\NewH202104.exe
+D:\学\科研训练\NewH20230406\NewH20230406\NewH202104\bin\Debug\NewH202104.pdb
+D:\学\科研训练\NewH20230406\NewH20230406\NewH202104\obj\Debug\NewH202104.csproj.AssemblyReference.cache
+D:\学\科研训练\NewH20230406\NewH20230406\NewH202104\obj\Debug\NewH202104.csproj.CoreCompileInputs.cache
+D:\学\科研训练\NewH20230406\NewH20230406\NewH202104\obj\Debug\NewH202104.exe
+D:\学\科研训练\NewH20230406\NewH20230406\NewH202104\obj\Debug\NewH202104.pdb
+C:\Users\DELL\Desktop\NewH20230406\NewH202104\obj\Debug\NewH202104.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\NewH20230406\NewH202104\obj\Debug\NewH202104.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\NewH20230406\NewH202104\obj\Debug\NewH202104.exe
+C:\Users\DELL\Desktop\NewH20230406\NewH202104\obj\Debug\NewH202104.pdb
+C:\Users\DELL\Desktop\NewH20230406\NewH202104\bin\Debug\NewH202104.exe
+C:\Users\DELL\Desktop\NewH20230406\NewH202104\bin\Debug\NewH202104.pdb
