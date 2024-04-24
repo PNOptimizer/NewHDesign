@@ -25,16 +25,19 @@ namespace Huangbo.AStarPetri.Test
             Huangbo.AStarPetri.AStarNode goalNode;
             Huangbo.AStarPetri.AStarNode startNode;
 
-            //string fileName = "ChenFig5_22";  //The prefix of your input Petri net files.         fileName should be "XXXFigx_111_init.txt" or "XXXFigx_111_matrix.txt".   
+            //string fileName = "ChenFig5_33";  //The prefix of your input Petri net files.         fileName should be "XXXFigx_111_init.txt" or "XXXFigx_111_matrix.txt".   
             //string fileName = "ChenFig6_222";  //The prefix of your input files. 
-            //string fileName = "Chen2011Big_11222";  //The prefix of your input files. 
+            string fileName = "Chen2011Big_22222";  //The prefix of your input files. 
             //string fileName = "ChenFig6Extended_211";  //The prefix of your input files.
             //string fileName = "Xiong98_2111";  //The prefix of your input files.
             //string fileName = "new4x3_1111";
             //string fileName = "Huang2012Fig1Revised_2211";
             //string fileName = "FigExample_1010";
             //string fileName = "ChenFig5revised_22";
-            string fileName = "Xiong98wafer_1111";  //The prefix of your input files.  //no buffer
+            //string fileName = "Xiong98wafer_1111";  //The prefix of your input files.  //no buffer
+            //string fileName = "Xiong98wafermiddle2_1111";
+            //string fileName = "Xiong98wafer154_1111"; 
+            //string fileName = "Xiong98wafer127_1111";
             //string fileName = "Xiong98extended_1111";
 
 
